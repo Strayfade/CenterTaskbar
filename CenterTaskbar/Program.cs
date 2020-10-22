@@ -41,7 +41,7 @@ namespace CenterTaskbar
 
     public class TrayApplication : ApplicationContext
     {
-        private const string AppName = "CenterTaskbar";
+        private const string AppName = "CenterTaskbar - Strayfade Branch";
         private const string RunRegkey = "SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Run";
         private const int OneSecond = 1000;
         private const int SWP_NOSIZE = 0x0001;
@@ -88,7 +88,7 @@ namespace CenterTaskbar
                     Debug.WriteLine(e.Message);
                 }
 
-            var header = new MenuItem("CenterTaskbar (" + _activeFramerate + ")", Exit)
+            var header = new MenuItem("CenterTaskbar-SF [" + _activeFramerate + " FPS]", Exit)
             {
                 Enabled = false
             };

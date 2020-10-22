@@ -1,0 +1,13 @@
+C:\Users\epicp\Downloads\CenterTaskbar-master\CenterTaskbar-master\CenterTaskbar\bin\Debug\CenterTaskbar.exe.config
+C:\Users\epicp\Downloads\CenterTaskbar-master\CenterTaskbar-master\CenterTaskbar\bin\Debug\CenterTaskbar.exe.manifest
+C:\Users\epicp\Downloads\CenterTaskbar-master\CenterTaskbar-master\CenterTaskbar\bin\Debug\CenterTaskbar.application
+C:\Users\epicp\Downloads\CenterTaskbar-master\CenterTaskbar-master\CenterTaskbar\bin\Debug\CenterTaskbar.exe
+C:\Users\epicp\Downloads\CenterTaskbar-master\CenterTaskbar-master\CenterTaskbar\bin\Debug\CenterTaskbar.pdb
+C:\Users\epicp\Downloads\CenterTaskbar-master\CenterTaskbar-master\CenterTaskbar\obj\Debug\CenterTaskbar.csprojAssemblyReference.cache
+C:\Users\epicp\Downloads\CenterTaskbar-master\CenterTaskbar-master\CenterTaskbar\obj\Debug\CenterTaskbar.Properties.Resources.resources
+C:\Users\epicp\Downloads\CenterTaskbar-master\CenterTaskbar-master\CenterTaskbar\obj\Debug\CenterTaskbar.csproj.GenerateResource.cache
+C:\Users\epicp\Downloads\CenterTaskbar-master\CenterTaskbar-master\CenterTaskbar\obj\Debug\CenterTaskbar.csproj.CoreCompileInputs.cache
+C:\Users\epicp\Downloads\CenterTaskbar-master\CenterTaskbar-master\CenterTaskbar\obj\Debug\CenterTaskbar.exe.manifest
+C:\Users\epicp\Downloads\CenterTaskbar-master\CenterTaskbar-master\CenterTaskbar\obj\Debug\CenterTaskbar.application
+C:\Users\epicp\Downloads\CenterTaskbar-master\CenterTaskbar-master\CenterTaskbar\obj\Debug\CenterTaskbar.exe
+C:\Users\epicp\Downloads\CenterTaskbar-master\CenterTaskbar-master\CenterTaskbar\obj\Debug\CenterTaskbar.pdb
